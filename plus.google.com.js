@@ -1,0 +1,1 @@
+$(".a-b-la-T,.a-p-la-T,.a-St-R,.a-St-FK-L506cc").hide().css("width","0");
